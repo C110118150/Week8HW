@@ -29,3 +29,13 @@ class CTriangle extends CShape{
 }
 ```
 ## Student
+```
+class Student{
+
+}
+```
+```
+class Course{
+   Student student;
+}
+```
